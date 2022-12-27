@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "krunal",
+      "email": "krunal@abc.com",
+      "password": "krunal123"
+    },
+    {
+      "name": "dev",
+      "email": "dev@abc.com",
+      "password": "dev123",
+      "id": 2
+    }
+  ],
+  "restaurents": [
+    {
+      "name": "KFC new",
+      "address": "chor bazar,delhi",
+      "contact": 111111,
+      "id": 1
+    }
+  ]
+}
